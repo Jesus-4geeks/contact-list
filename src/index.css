@@ -1,0 +1,38 @@
+h1 {
+    font-size: 4rem;
+    font-weight: 400;
+}
+
+.contact {
+    padding-inline: 4rem;
+    height: 12rem;
+    display: flex;
+    align-items: center;
+}
+
+.contact-img {
+    display: flex;
+    margin-block: auto;
+    margin-right: 4rem;
+    width: 8rem;
+    height: 8rem;
+    /* border: 1px solid black; */
+    border-radius: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-info {
+    height: 100%;
+    padding-block: 1rem;
+    margin-right: auto;
+}
+.contact-info p {
+    margin-bottom: 0.4rem;
+    color: #6c757d;
+}
+.contact-name {
+    margin-bottom: 1rem !important;
+    color: black !important;
+    font-size: 1.5rem;
+}
